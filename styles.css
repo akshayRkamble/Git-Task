@@ -168,21 +168,21 @@ nav ul li a:hover {
  .about-image {
   position: relative;
   overflow: hidden;
-  width: 700px; /* Adjust the width as needed */
+  width: 700px; 
 }
 
 .about img {
   display: block;
   width: 100%;
   height: auto;
-  border-radius: 10px; /* Adjust the border radius as needed */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adjust the box shadow values as needed */
-  opacity: 0.8; /* Adjust the opacity as needed */
-  transition: transform 0.3s ease; /* Adding a smooth transition for the transform effect */
+  border-radius: 10px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+  opacity: 0.8; 
+  transition: transform 0.3s ease; 
 }
 
 .about  img:hover {
-  transform: scale(1.1); /* Adjust the scale factor as needed */
+  transform: scale(1.1); 
 }
 
 .dark-theme {
